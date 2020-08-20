@@ -1,3 +1,5 @@
+# USE AT YOUR OWN RISK (Standard Disclaimer)
+
 # This script was create to recursively restore a folder in the 
 # first stage recycle bin when you have too many items in your Recycle Bin 
 # Getting "The attempted operation is prohibited because it exceeds the list view threshold enforce by administrator" Error
